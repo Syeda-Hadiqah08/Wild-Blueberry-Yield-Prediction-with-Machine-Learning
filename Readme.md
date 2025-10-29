@@ -29,9 +29,6 @@ The dataset `WildBlueberryPollinationSimulationData.csv` is not a field-collecte
     - 777 Samples 
     - 18 Features (Before Data Cleaning).
 * **Target Variable:** `yield` (Continuous variable in kg/ha).  
-  
-After the **feature selection** process guided by the research paper, the following 7 features were used to train the models:
-
 
 ---
 
